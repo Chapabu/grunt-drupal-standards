@@ -1,0 +1,6 @@
+# You may want to include this folder, as if NPM goes down it is a massive
+# pain in the backside. It's totally up to you.
+node_modules/
+
+# Composer vendor directory.
+vendor/
