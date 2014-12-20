@@ -1,0 +1,16 @@
+{
+    "name": "chapabu/drupal-standards",
+    "description": "PHP package requirements for Drupal standards",
+    "minimum-stability": "stable",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Matt Chapman",
+            "email": "chapabu101@gmail.com"
+        }
+    ],
+    "require": {
+        "drupal/coder": "7.2.2",
+        "squizlabs/PHP_codesniffer": "1.*"
+    }
+}
